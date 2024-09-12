@@ -6,7 +6,7 @@ function App() {
  
   return (
     <>
-      <h1>Chai</h1>
+      {/* <h1>Chai</h1> */}
       <AddTodo></AddTodo>
       <Todos></Todos>
     </>
